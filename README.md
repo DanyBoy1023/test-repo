@@ -2,4 +2,4 @@
 Test repo for C2C class
 
 
-This is a change of the README file
+This is an update of the README file
