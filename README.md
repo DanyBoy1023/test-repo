@@ -1,5 +1,5 @@
-# test-repo
-Test repo for C2C class
-
-
-This is an update of the README file
+# Introduction
+This is a repository created by *Daniel*
+## Usage
+Run this command to execute the application:
+`python filename.py`
